@@ -1,0 +1,6 @@
+name: ExecuteByPlayerCount
+version: 1.0
+api-version: 1.15
+description: Execute commands by player count.
+author: kubotan
+main: space.gorogoro.executebyplayercount.ExecuteByPlayerCount

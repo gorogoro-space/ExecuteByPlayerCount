@@ -1,0 +1,17 @@
+interval-seconds: 60
+step-list:
+  - 0-4
+  - 5-9
+  - 10-14
+  - 15-19
+  - 20-100
+command-list-0-4:
+  - viewdistance world 32
+command-list-5-9:
+  - viewdistance world 16
+command-list-10-14:
+  - viewdistance world 10
+command-list-15-19:
+  - viewdistance world 7
+command-list-20-100:
+  - viewdistance world 5
